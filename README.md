@@ -404,3 +404,5 @@ lifecycle
 
 В такой системе интеллект возникает не только из вычисления результата, но и из процесса развития, конкуренции и объединения идей.
 
+<img width="1536" height="1024" alt="ChatGPT Image 18 июл  2026 г , 06_58_34" src="https://github.com/user-attachments/assets/3e2a03d5-1e7c-4c67-a0ea-69574b6d3bd8" />
+
