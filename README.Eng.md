@@ -403,3 +403,5 @@ It presents an architectural hypothesis:
 **Future artificial intelligence may be built not only as a system that generates the most probable answer, but as a dynamic system of interacting hypothesis objects.**
 
 In such a system, intelligence emerges not only from computing a result, but from the process of developing, competing, and combining ideas.
+
+<img width="1536" height="1024" alt="ChatGPT Image 18 июл  2026 г , 07_35_59" src="https://github.com/user-attachments/assets/61ef1b6f-e836-4dec-83f2-f3dbd075ae6c" />
